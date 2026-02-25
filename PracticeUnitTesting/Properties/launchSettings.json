@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "PracticeUnitTesting": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
